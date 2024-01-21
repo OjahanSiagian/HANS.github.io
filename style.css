@@ -1,0 +1,66 @@
+.body{
+    background-color:rebeccapurple ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #91f27b;
+}
+
+header {
+    background-color: #1b77e1;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.photo-card {
+    border: 1px solid #bc3030;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+.photo-card img {
+    width: 100%;
+}
+
+header image {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+section  {
+    padding: 20px;
+}
+
+section img {
+    width: 200px;
+    height: auto;
+    margin-right: 10px;
+    float: left;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+
+section p{
+    bottom: 0,2;
+    background-color: antiquewhite;
+    
+}
+section q{
+    bottom: 0,8;
+    background-color: rgb(229, 85, 24);
+    text-align: center;
+}
